@@ -1,0 +1,1167 @@
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.8_iphoneos-arm64.deb
+Size: 66492
+MD5sum: 4522ec9b6bd78bd1b3ffad07072a46d4
+SHA1: baf86945f2366354d71b81f3450a75bb30ec2368
+SHA256: a8fb703d62a26785f8d5ab435d44e8e966c2634ee99204a5e7e2da87f7873164
+Section: Tweaks
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://www.susubaby.top/images/tongzhi.png
+Name: NotificationsGroupCount
+
+Package: com.82flex.singlemute
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlemute_1.5_iphoneos-arm64.deb
+Size: 24816
+MD5sum: a48b9614377799d79ba629270eef52ef
+SHA1: 257c0dc72e98aa931e0515366bdff632c5071ef8
+SHA256: e406ae9b3ab0f0fc1f4c6f675714d175ebc6b3bd30f7480e2a10cd2f2a8cd687
+Section: 调整
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://www.susubaby.top/images/Singlemute.png
+Name: Single Mute
+
+Package: com.classickeyboardxs-susubody
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1060
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.classickeyboardxs-susubody_1.2_iphoneos-arm64.deb
+Size: 233552
+MD5sum: bc06b30bb164a0671f292102a2034ea0
+SHA1: aa81c483d29889283793406b6bebec90e013ac01
+SHA256: caa24069f2a323767684aa4ba5d733bbe6e252ecd061ace244743c17706293b5
+Section: 调整
+Description: 自定义键盘底部高度，地球底部高度等
+Author: Netskao
+Icon: https://www.susubaby.top/images/jianpan.png
+Name: Classickeyboardxs
+Sponsor: 苏苏
+
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
+Size: 386652
+MD5sum: 5a9502db5d60ee6e2092af17b82c8d5a
+SHA1: 6eb4177185ee35d56bf1e56c7c495a83549dbe73
+SHA256: 375d94ce72495208844ea36e5e5dde647e3a4ceb59306f17c3eef46efb513ade
+Section: 应用
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: https://www.susubaby.top/images/tweak.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
+Package: com.fiore.calculatorhistory
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.calculatorhistory_1.8_iphoneos-arm64.deb
+Size: 23276
+MD5sum: 8e390a8415058b60441c755765555aed
+SHA1: d8d30b9de8870cc241189b2dfe27b9356ad050a4
+SHA256: 299593f0c7a20700301af91df42a74248c999d30ed628d658ce908de6a9fd6f9
+Section: Tweaks
+Description: 计算器获得历史记录!
+Author: fiore
+Icon: https://www.susubaby.top/images/jisuanqi.png
+Name: CalculatorHistory
+
+Package: com.julioverne.spotilife
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.8_iphoneos-arm64.deb
+Size: 104056
+MD5sum: 55fe5bf85466ec1f9f4591ea8e9f10e8
+SHA1: 4a7870d48fb78616e72c815a3f773ec7c39ea1e1
+SHA256: af70a6f8c02e34c041ce35dab89a44b2c594b2257de0a0c3b37c1a24ec78dcb4
+Section: 插件
+Description: Spotify无限跳过，删除广告，解锁超高质量流。。。需要Spotify应用程序 (AppStore)
+Icon: https://www.susubaby.top/images/spotify.png
+Name: Spotilife
+
+Package: com.level3tjg.sposifyfix
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Depends: mobilesubstrate (>= 0.9.5000), com.spos
+Filename: ./debs/com.level3tjg.sposifyfix_0.0.6_iphoneos-arm64.deb
+Size: 15500
+MD5sum: c4a0bcfc15ed9c5250033206f8fa0d07
+SHA1: 785ab083932a0c90a2a4ae140b9a717cd94bec67
+SHA256: 9ade5a1ab4d9a3ccc2d234c25744c510caa8f215ec52ed91d8416bab5f0dde9e
+Section: 插件
+Description: Fix for Sposify for Spotify v8.6.30
+Author: level3tjg
+Icon: https://www.susubaby.top/images/spotify.png
+Name: Sposify Fix
+
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2488
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/com.muirey03.cr4shed_4.3.2_iphoneos-arm64.deb
+Size: 228780
+MD5sum: 30cff024e7e1abc9b424aa7c5f4d4209
+SHA1: 9014f4ee066a9d64238f39a796221f7e9eefb445
+SHA256: 32915f874a32cba8941a9da78f1dc184d106ee255d9a05055effc3bf92b5bcfe
+Section: Tweaks
+Description: 系统崩溃报告器
+Author: Muirey03
+Icon: https://www.susubaby.top/images/cr4shed.png
+Name: Cr4shed
+
+Package: com.ps.apppad.susu
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs/com.ps.apppad.susu_1.1.4_iphoneos-arm64.deb
+Size: 6592
+MD5sum: 23cf58e195383eacdb99e65559e48cc0
+SHA1: af6d57f613cb2349cde6fb53efb6666bacd57b5b
+SHA256: a959db66387371d4953c4979c0bde997dedff4ba7f4a832a9f9c68875e09280e
+Section: 插件
+Description: 在ipad上任意应用强制全屏/强制竖横屏 还可作用于分屏插件的随机bug
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/apppad.PNG
+Name: AppPad
+
+Package: com.ps.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64.deb
+Size: 3156
+MD5sum: eabb55cd2f1e2f3d60cef5c089d90bdf
+SHA1: 77fc0d3c9c949cac4570301d0dbb82b7aa84d064
+SHA256: 63a7c7e076f9b0d4592265c3d62d3ce6f2acac5a0dfe24e43947bedf3f727d82
+Section: Tweaks
+Description: 仿Office 2013的输入光标
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/smoothcursor.png
+Name: SmoothCursor (iOS 13+)
+
+Package: com.spos
+Version: 8.5.52
+Architecture: iphoneos-arm64
+Maintainer: aesthyrica
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./debs/com.spos_8.5.52_iphoneos-arm64.deb
+Size: 67920
+MD5sum: 6c648cca9ed447b7b0b14520130bd198
+SHA1: 6a04c508f956255fb5c22ae76f882df0b33e42a7
+SHA256: 14b4af9011294f881e0dea48f7a984ddf4eecaffdfa372a784305e392477bf1c
+Section: 插件
+Description: Sposify是一个调整，为iOS上的Spotify应用程序添加了各种增强功能
+Author: aesthyrica
+Icon: https://www.susubaby.top/images/spotify.png
+Name: Sposify
+
+Package: com.su.recordpauses
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
+Filename: ./debs/com.su.recordpauses_2.0.4_iphoneos-arm64.deb
+Size: 10168
+MD5sum: fe28c8939ce4b8738e52c3a83744319c
+SHA1: 1b4ce2012f61bcaaa29b4bf4f3179ff7eaeb6875
+SHA256: d93b7456efd5724f98f65228175cae6585aedc4a1bc1b43461d6a9a824e4570f
+Section: 插件
+Description: 录像暂停 Pause/resume video recording in iOS Camera app.
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/camera.png
+Name: 录像暂停 RecordPause
+
+Package: com.susu.colorful
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Filename: ./debs/com.susu.colorful_1.0.0_iphoneos-arm64.deb
+Size: 1352
+MD5sum: 29691d53514eee44e0228686180912ab
+SHA1: ce4408341e6b08580a6008aec2e8798f99e55d24
+SHA256: 8f83e31147675a667a2bae47ea76d08a63ea9b865c32cd24749af5dea4ccbe94
+Section: 主题
+Description: Colorful主题
+Author: SuSu
+Icon: https://www.susubaby.top/images/colorful.png
+Name: 苏苏Colorful主题备份
+
+Package: com.susu.fuckwechatads
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64.deb
+Size: 16856
+MD5sum: 2cf57c07d9ca4d68cb76d26fea7fbb37
+SHA1: 001c0120821de07eff93ed7626107320c49b0725
+SHA256: c63d71774f3f0d4f052be7703f77f0479ec08cd66ac9aca880f03933c17f5f64
+Section: 插件
+Description: No WeChatAds
+Author: susu
+Icon: https://www.susubaby.top/images/wechat.png
+Name: FuckWeChatAds
+
+Package: com.susu.hidekbsettings
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 404
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.hidekbsettings_1.0.7_iphoneos-arm64.deb
+Size: 24548
+MD5sum: 4a6b19ca8216450c6c9942528580e71d
+SHA1: b5c7621849812a8cdd85184041de937ccd8d8b44
+SHA256: 0c60227659b7e27f3f77688c3e0178925227343a71ff522eda464984076f337e
+Section: 插件
+Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
+Icon: https://www.susubaby.top/images/HidekBSettings.png
+Name: HideKBSettings
+
+Package: com.susu.ios16
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.ios16_1.9_iphoneos-arm64.deb
+Size: 84266148
+MD5sum: 467ef4b151a9d87772fe4b0a5d216030
+SHA1: 554fad4d446610a892dcffdcf0023dfa402ec33d
+SHA256: 4d34ef611bbc34df322e8681764e4e0155124096f581da250d1c367fa23bd329
+Section: 字体
+Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！
+Author: 苏苏
+Icon: https://www.susubaby.top/images/ziti.png
+Name: ios16原生字体 90%大小
+
+Package: com.susu.ios16
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.ios16_2.0_iphoneos-arm64.deb
+Size: 83267072
+MD5sum: 925169e0cc8545b291bcf209f1554726
+SHA1: b31decedbf6b6e125dc434bcd8f65fa92116dea8
+SHA256: 0cb87fa717567e382e381b2f824cd00b127b5042c0b041c4bd49ed9cf924103f
+Section: 字体
+Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！(2.0去除盲文符)
+Author: 苏苏
+Icon: https://www.susubaby.top/images/ziti.png
+Name: ios16原生字体 90%大小
+
+Package: com.susu.ios16
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.ios16_2.1_iphoneos-arm64.deb
+Size: 83198804
+MD5sum: 859fe0802351113af72c8870ca968bcd
+SHA1: 13f944c9fa0195fc14f515e6fdd40dc0eb569520
+SHA256: e5bafe34b19cd0510aefabd64ebf1061a5905f1ff64ec051477e2f7326d8b717
+Section: 字体
+Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！(2.0去除盲文符)
+Author: 苏苏
+Icon: https://www.susubaby.top/images/ziti.png
+Name: ios16原生字体 90%大小
+
+Package: com.susu.ios16
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.ios16_2.2_iphoneos-arm64.deb
+Size: 83323848
+MD5sum: 355ea785c3a35d1ee18875ebb637b9a1
+SHA1: 1b01d64eacd6adef8fe50981290b4ad342439662
+SHA256: d89dac679976d447f8c2468d421d662841eaf9bedd31fc84fb762e7bb0cab2a9
+Section: 字体
+Description: 苏苏提取ios16原生字体，修改为90%大小，使用前请先挂载！
+Author: 苏苏
+Icon: https://www.susubaby.top/images/ziti.png
+Name: ios16原生字体 90%大小
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.1_iphoneos-arm64.deb
+Size: 37364
+MD5sum: 64b4fead481a2d6ae87d9929dc54e1e0
+SHA1: 0c9d665b566bce64885f29aa31b99e7cc024139e
+SHA256: c0b6ea0b00611db1346873400a10cd449f2715281d7c099c215afd535e02a4ce
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.2_iphoneos-arm64.deb
+Size: 39718
+MD5sum: 8a09c3af5446bc78bea4a7112e67096f
+SHA1: 6762957c131ea0ff9b25ac30d1b83afe11354b5f
+SHA256: 3b8ea192cb0c0d58a36bafdc9c8e148f22d13d62fdff1fe5825518fb64906295
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.3_iphoneos-arm64.deb
+Size: 44878
+MD5sum: d9083449d1ea4f76395fff125ada2e26
+SHA1: 41775a606929c3148d62933d876f50d9461cba0c
+SHA256: b917ff0347896df7576faeaf2da779ec9840150ecf27fc48f1eef0c4c87bad71
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.4_iphoneos-arm64.deb
+Size: 49204
+MD5sum: 7c6efe3460a1c649c0d1f9a166a64e4d
+SHA1: aebded77e67b8cf977b12c07a193de25f887a144
+SHA256: d2818e186043c05d591da337a5d2353fc12260e214e575760bd7f2e3cfc7ed11
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.ios18batteryestimate
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.ios18batteryestimate_1.1.5_iphoneos-arm64.deb
+Size: 50188
+MD5sum: 9ac84147ea37d6edc231e5c23e6ce2dd
+SHA1: 2008d29b217d6ca0bf5d742c17525172a2091e62
+SHA256: 2b50447436abab9bfa1ac45a90e5b6494e884b5a3a6e0dae5bdd52dba8c6a83c
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.luping
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Filename: ./debs/com.susu.luping_1.0.1_iphoneos-arm64.deb
+Size: 3968
+MD5sum: 086f99d347a9d6031b18a8698223aac3
+SHA1: d0f8f79017c9d7f183c7d3a21e08984ee6f075bb
+SHA256: a8b31de9554f66b621cffdfb0658722cb7aa83ac041a684660b546fbe97c0d28
+Section: 调整
+Description: 苏苏动态录屏
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+Author: 苏苏
+Icon: https://www.susubaby.top//images/luping.png
+Name: 灵动岛动态录屏
+
+Package: com.susu.nopreferencetips
+Version: 1.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.2-1_iphoneos-arm64.deb
+Size: 5490
+MD5sum: 0ce92cbd9b971f37ba59ab19b88f4d1d
+SHA1: 673a3fe5e0fd1ef64830e67f0c82d30861db0ca5
+SHA256: d7709f58972fe0b08a39aa7a4bdfd409f6bbd9b4c505375abd0fe6e110f4a256
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 修复“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
+Package: com.susu.nopreferencetips
+Version: 1.0.3-7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.3-7_iphoneos-arm64.deb
+Size: 7016
+MD5sum: 9198e72487653355fd91029282b03586
+SHA1: cbfe82bedeb2d1cdbbe90019ad08d60be42621bf
+SHA256: 93794d19ace9c58fa17717f7f90b2658158f722d131ff1586b630496d2190f5d
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持iOS15-iOS16
+   * 修复“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64.deb
+Size: 5386
+MD5sum: b9e7e36b4800edff79ce0540e800e81d
+SHA1: d6a55d46e3233007838ecdb4e13a13914f580f89
+SHA256: f5830ad34a7c4b1e63cd2af2dac0d8da13d949481b56dfb145fd9d704592003d
+Section: 调整
+Description: 此插件偏向于更换非官方电池的用户(一“件”全包)
+   * 支持 iOS15-iOS16
+   * 移除“设置-电池-电池健康与充电”的提醒并显示健康值
+   * 移除桌面上的设置角标（只显示 15 天）
+   * 移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Preferences.png
+Name: NoPreferencesTips
+
+Package: com.susu.photos
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.1_iphoneos-arm64.deb
+Size: 3602
+MD5sum: 3ae4df4f30919e910ce9f27d247a895f
+SHA1: 238c4d180f07c168e6a0bac55bec8493bebf73cb
+SHA256: a7fccb6e91b2ceb21d09ae3b89f9c2dcd60b95630d0b35791b4c8ba5000b0b22
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Icon: https://www.susubaby.top/images/photos.png
+Name: SuPhotos
+
+Package: com.susu.powermenu
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.4-3_iphoneos-arm64.deb
+Size: 33834
+MD5sum: 9526be831538b318f0c7e18b930ec3a9
+SHA1: 56d279982feb0e82c6f6449380381ea9b6778f86
+SHA256: 63e009bdace680a91cd551086c4a533bc81a16994ad6176c9b9bed9cdfa90ecd
+Section: Control Center (Modules)
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。原作者 MTAC
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
+Package: com.susu.powermenu
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.5_iphoneos-arm64.deb
+Size: 33780
+MD5sum: ebc86c13833170f82ad27f05785ec9d6
+SHA1: b6869b1d5f75be93a64e5470c08c03c040f6b4da
+SHA256: 3ded8a8de4b48631d35323daf1b2012369240afa853ee5f08cba8e58f4382ab5
+Section: Control Center (Modules)
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。原作者 MTAC
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
+Package: com.susu.powermenu
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.6_iphoneos-arm64.deb
+Size: 34290
+MD5sum: d18fd9a673962c4f36070f0f6b7f2e59
+SHA1: 93a407868df021addc5eaf75f4b49f6b192a3c1d
+SHA256: 369b5cac7bb5d4d76fe3803ca78966ba654bd5c4af32898cb2f78aff98dcbc46
+Section: Control Center (Modules)
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
+Package: com.susu.reachplayer
+Version: 4.1.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3668
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.1.3_iphoneos-arm64.deb
+Size: 1250378
+MD5sum: ef2877195efff385686f460b4688d154
+SHA1: f8b7d03e6cfabbe56504b3454b21ec47e7b0416b
+SHA256: f234e2d739a8998746163099044719384360b791638839bf36ad8e09fee72527
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: ./debs/SettingsRevamp_3.0.1_iphoneos-arm64.deb
+Size: 446756
+MD5sum: 1e0f55362226705f5849ab7722c8dd1d
+SHA1: 74e3a81e604f48f2836df3af47dbff6044484463
+SHA256: 90d133be5492d80355503258d1cd8cb576208dc26a10bd9cf0a22fa9753af590
+Section: 插件
+Description: 设置自定义、归类插件
+Author: SOPPPra
+Icon: https://www.susubaby.top/images/settingsrevamp.png
+Name: SettingsRevamp
+
+Package: com.susu.springanimation
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.1.0_iphoneos-arm64.deb
+Size: 17596
+MD5sum: a0dc4cf54041443793b5ebf4ca608ac4
+SHA1: 7542d1ff3f6b1a3556fc29c40531155f47fb6188
+SHA256: ff5b6eb847faee1d23dabef79bbe8814e24dcaef7d6ef3dc8ca4173302ad40c4
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.springanimation
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.1.1_iphoneos-arm64.deb
+Size: 17904
+MD5sum: ded5289b5577c8e51412a3020033e2ae
+SHA1: 99f30da2643be9dde3c0619e107a6d04ff40fb21
+SHA256: 683a42fbcb74f556d8bb6a1ae7b72ceb836d890da24047f03086db6d2d2c29b7
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.susu.storeswitcher2_1.0.7_iphoneos-arm64.deb
+Size: 14996
+MD5sum: 113bb7a80a40fc2e54607ab337e83dd4
+SHA1: c997e1e33f801bf98cb26ff3a9dea154acc5b63e
+SHA256: 7600c8322e83fb9bb53cf3bb0bce61fbe3ac3f327aef6ae9619ed8a361c1ca2f
+Section: 插件
+Description: App Store 账户快速切换。苏苏修改编译，优化了账号切换逻辑
+Author: 苏苏
+Icon: https://www.susubaby.top/images/appstore.png
+Name: StoreSwitcher2
+
+Package: com.susu.suawemehook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-1_iphoneos-arm64.deb
+Size: 20496
+MD5sum: dd6b2e8733cff98074edd2f13fdedd87
+SHA1: 1369ffee80a447deaddf197428eff643707efc85
+SHA256: 6b25a5faa1d38e4098f59a47ce6205893114b769cfa61b68c4b26b02fa2d3644
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-2_iphoneos-arm64.deb
+Size: 20922
+MD5sum: 178cb403429e0265078bdb6a538030f1
+SHA1: b4cbc40cfc139973836235196afb4af56bec4709
+SHA256: bf13253f4024f4277ca3988fc519b6031592baa5eaba8f47b1bf3758d38e1052
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-3_iphoneos-arm64.deb
+Size: 21000
+MD5sum: d98f87fea013093a08f953d2bd6cd27e
+SHA1: 3887374ae934f4d7d10c45a93d5345cb662abbd9
+SHA256: e4c459d58c800f3ab0aeb53dd61a90ce998127aa799b9efbf641536da14988db
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-4_iphoneos-arm64.deb
+Size: 21798
+MD5sum: fc83894a17d882968c7e455d23cc495b
+SHA1: ff4d0c2ec936555e944c53c2866b8597515039e9
+SHA256: dddf65b3becace6ade9609af9c0c5ea6048c5b7a9ae6ad793a6d35403f023053
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-5_iphoneos-arm64.deb
+Size: 22608
+MD5sum: 5ce42842b7cd37f37b028d97102f167e
+SHA1: 1b13aaab6f032d2c5d77f5b47836731fe64a0d3d
+SHA256: d758d18a8534e8afd05d42a520db2cb462b8f3a6499d56b0cc3d6e391fcf76ac
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-6_iphoneos-arm64.deb
+Size: 22668
+MD5sum: a911307f84bacdb821d21a104297ac28
+SHA1: 92bb3d6dfc49add6321e61c2c7ad37648990b25b
+SHA256: a1d61d64521e0bd0c923f00d336682fa85034b20d0ef749338f2c9bca8ea1070
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.2-7
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-7_iphoneos-arm64.deb
+Size: 22432
+MD5sum: 69a72ef178370f940c4e17f8ed26bd0f
+SHA1: 3cb1500db76d789e27f10f49b3d16c7da4de55dd
+SHA256: 468fa1d041dbb804239ac8f7711e7daa37e484f236b53248eb4f7d5477ae373c
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-8_iphoneos-arm64.deb
+Size: 22844
+MD5sum: a60c037b17a2d2d86627eb1a7b2be8cc
+SHA1: 3989fdc4e6a423e598887772b8e9cb913c67c286
+SHA256: d0423957f86b16afd45213c2f480ac66b2433b7d13a4fa976b7ee599da44733d
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3_iphoneos-arm64.deb
+Size: 23046
+MD5sum: 7b3cc16edad4019b3cc9b2edb9bcc933
+SHA1: 9ca7b3578fd8df8c14cb3bd9ae65cc7bad6365bf
+SHA256: ccaeac8ec7880e377370e24f2e65d6b14e03cf1dddca9e62e80a0b24896c572b
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook End
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.1_iphoneos-arm64.deb
+Size: 23204
+MD5sum: 5464b79e36907c46da23821544c48ce7
+SHA1: 2c0a9c3401812cfcac0e41d2829e07c4a844f1cc
+SHA256: 81ac56c7721df199337eb47fe48cc4be0830bd9d7db65549bd7a7668ea3d29a3
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.2_iphoneos-arm64.deb
+Size: 23426
+MD5sum: 4606a27351c4db80cb9b27e6e0ae0a90
+SHA1: d4daaa430a423b955bf22507a2bfa97cd0620a9c
+SHA256: 248141c5ee648c68c2059b6422b141f152bc1ec9434fa95f167a384567e510af
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 332
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.3_iphoneos-arm64.deb
+Size: 31996
+MD5sum: cdfdb240ab0c5403e1d923cb292df966
+SHA1: f402c41fdb2a6243424ed406ade01ccb50443dab
+SHA256: 4eb463190f3039cb6edef4ed5030cbb0b8229fc2f6ac6cb0cd212cde4ee15948
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 332
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.5_iphoneos-arm64.deb
+Size: 31584
+MD5sum: 542e33df5fc34d3429fdcead1da33baf
+SHA1: f31fa0b8f912cc4d153713ab3233f36dce126e74
+SHA256: 7dd17af7f9b236236154046d97939a90635d7eedd231aa5903c2635d1136a41e
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 352
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.6_iphoneos-arm64.deb
+Size: 37462
+MD5sum: 48411fb7cde8cef1cab29d32b1782336
+SHA1: 28362b19d323974dd7d7130fbf8399f91e2a283a
+SHA256: 336c801e3bf218672a73ba6d91681aeb3c1dc26088717d4673e09fa73a20d2b7
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.7_iphoneos-arm64.deb
+Size: 42508
+MD5sum: cbbe41667c2245486abf5f5c1777ef09
+SHA1: f516ceb27ad0cfc7b883c98905917e1a103b6b33
+SHA256: 8d3069e5c5df039bf169b98c6e6fe7da0cc1d963769049d540a1e22c5044ce68
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.8_iphoneos-arm64.deb
+Size: 46100
+MD5sum: 8708d59344a38cf22fa8f3c686577001
+SHA1: afebe437bb2d9e10dc3b0e4f2ac469e55eba2b6b
+SHA256: 2cfdcaa2528f7d73f96ec0f1c026f34ec836b60ddd5b60cae5949923c7456f7d
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://www.susubaby.top/images/douyin.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.surespringcc
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 180
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.surespringcc_1.0.5_iphoneos-arm64.deb
+Size: 15798
+MD5sum: bb213f03b78c6b5ab0730860512418ce
+SHA1: 03f62ee0ee42fa7562aa741a4718a0c20260d752
+SHA256: 0baf49de9d52a127e6ec8e7f1306d8a08fd050f794a9bb9d2a6d5c3f48827bd6
+Section: Control Center (Modules)
+Description: 控制中心杀后台注销SpringBoard，单一模块只有注销功能，带小彩蛋。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/surespringcc.png
+Name: SuRespringCC
+
+Package: com.susu.suxhshook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.suxhshook_1.0_iphoneos-arm64.deb
+Size: 12174
+MD5sum: 3400390ddad0208e8b1271a2fc2c5ddd
+SHA1: 25f4b363298ce58c8f25b09be0ccab23b66299f8
+SHA256: 113cc2d49708580ad15ce711ff74eab353def113562c405433a958cd18197f33
+Section: 插件
+Description: 小红书调整，关于页面双击版本号启用。原xhsplus
+Author: susu
+Icon: https://www.susubaby.top/images/xhs.png
+Name: SuXHSHook
+
+Package: com.susu.talkatone
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.talkatone_1.0.1_iphoneos-arm64.deb
+Size: 2472
+MD5sum: 0a7cfdbb3fc8cb82b961ab697fd95e5a
+SHA1: d94871e6606f05352166218d0da0905cc8084baf
+SHA256: 6c70c772ad6046bc030521bdf5c3f45ed7c8cc277b4f753279cd1de266cc824c
+Section: 去广告
+Description: Talkatone去广告
+Author: 苏苏
+Icon: https://www.susubaby.top/images/Talkatone.png
+Name: Talkatone
+
+Package: com.susu.themes
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Filename: ./debs/com.susu.themes_1.0.1_iphoneos-arm64.deb
+Size: 4144444
+MD5sum: bcf71413755b3e9304f90946d1801e8c
+SHA1: c7d5b1a9dd5589d0d5d8b68a6851d9d2750a1eca
+SHA256: 7129dc643604cdcc5fc61160e4c172cc008a9838cb7081f913fc3b6e8b7cd467
+Section: 主题
+Description: 主题备份
+Author: SuSu
+Icon: https://www.susubaby.top/images/themes.png
+Name: 苏苏主题备份
+
+Package: com.susu.wcfrostedglass
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.3_iphoneos-arm64.deb
+Size: 5060
+MD5sum: 19982020f227404220bfb4b1522b4eb7
+SHA1: 4307cf10d9e246920182e42d20beb3e761cab23d
+SHA256: 8f8016bc72d808a503086f260045c51e74d4a4f8dbe870712048a9162367d3a9
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
+Package: com.susu.wcfrostedglass
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.4_iphoneos-arm64.deb
+Size: 5380
+MD5sum: 418ff1769b2ce0c41bcfe40f863a7c3b
+SHA1: 3e84da534c05615d3f90f3230d916cb3551cce9a
+SHA256: cbe081e412353a71bf4da6389d783030c860b93c338138f77ba6786ac26e4504
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
+Package: com.susu.wcfrostedglass
+Version: 1.0.4-2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.4-2_iphoneos-arm64.deb
+Size: 4362
+MD5sum: ca9b9371400a943208effbe42c0f2fea
+SHA1: 049d88db5ac8089d383c8eaa7d662bf6177c2491
+SHA256: e2cb6017ebf42696dc1f4948c649555211f8ed68aceac37679da4d0e1a69fd4c
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
+Package: com.susu.wcfrostedglass
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.5_iphoneos-arm64.deb
+Size: 4750
+MD5sum: 6b971072f61c09ea3c3e2ef1909239f0
+SHA1: d12f59607a162bf5458b82793bada6ae1535d09a
+SHA256: d9aa63b091f28d7583307350c5148e9405cdb979ecb7902a7b41896dca4e0070
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
+Package: com.susubody.latchkey
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.susubody.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 423112
+MD5sum: 23e7e78c4f956b106617d34f3d30f5e1
+SHA1: 1541d5e7604c8441e19943c9dedea7811fef5002
+SHA256: fb7360a66a97cd2782fe74b05861bf5134d50aefb87832f894c5f07c04955f98
+Section: 插件
+Description: 自定义锁头图标和位置
+Author: Maxwell Dausch
+Icon: https://www.susubaby.top/images/latchkey.png
+Name: Latchkey
+
+Package: com.susubody.susutools
+Version: 9.9.9.9
+Architecture: iphoneos-arm64
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.susubody.susutools_9.9.9.9_iphoneos-arm64.deb
+Size: 10636
+MD5sum: 07c4f0480cf28f22791fabd29cfd70e8
+SHA1: 587c00b9d70d77fd7a9c9a8c2b4b02304a920db7
+SHA256: a7378f7a8bd905563fbbbb81922054145bf5bcd93178900273b14bdb4f57d142
+Section: 系统
+Description: 使用方法：Filza进入/var/mobile/Documents运行SuSuTools.sh
+Author: 苏苏
+Icon: https://www.susubaby.top/images/susu.png
+Name: SuSuTools
+
+Package: com.yourepo.0xash.fixrepairsystempower
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ash <krylov0@outlook.com>
+Depends: mobilesubstrate
+Filename: ./debs/Fix Repair System Power_0.0.1_iphoneos-arm64.deb
+Size: 4588
+MD5sum: b6ac2190a0d9565f07cfbe8013912f54
+SHA1: eb07a5ed2a6e8bfa3ae468e7da58f2b7561aa175
+SHA256: a416d8ce2145a06a7faab7779587204930d9360740a1566f5a5fbfe46a083aa4
+Section: System
+Description: CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
+Author: ash <krylov0@outlook.com>
+Name: Fix Repair System Power
+
+Package: netskao.3dnetworkfixer-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.3dnetworkfixer-rootless_1.1-8_iphoneos-arm64.deb
+Size: 116036
+MD5sum: 787de0deaa7c4424b275e3e25fa6011f
+SHA1: 9e26c988eed132d5471bf5ae166448d6d5b947c0
+SHA256: 298506ac6e06e81218efd344dfda953f4a657bdf0c0df593f55fbe4cac4b98da
+Section: 插件
+Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
+Author: Netskao
+Icon: https://www.susubaby.top/images/chuizi.png
+Name: 3DNetworkFixer-Rootless
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64.deb
+Size: 233692
+MD5sum: 99ba4b51409b28ea5c1e503b7f56412d
+SHA1: e8361ac1642b7b31b26da8ec5b9e6ac1bc5a2afb
+SHA256: 27303534ce790f1e417dfd1c5951b413f656e90a2aaa5eecfe4763c4773d8ad8
+Section: 应用
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://www.susubaby.top/images/CocoaTop.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
