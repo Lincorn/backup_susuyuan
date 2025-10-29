@@ -1,12 +1,9 @@
-name: Sync SuSuDear/0107
+name: Sync SuSuDear/0107 Repository
 
 on:
   schedule:
-    - cron: '0 0 * * *'    # 每天 UTC 00:00 同步（可按需修改）
-  workflow_dispatch:      # 允许手动触发
-
-permissions:
-  contents: write         # 允许写入仓库内容（用于 push）
+    - cron: '0 0 * * *'  # 每天 UTC 时间午夜自动触发同步
+  workflow_dispatch:      # 支持手动触发同步
 
 jobs:
   sync:
@@ -14,39 +11,27 @@ jobs:
 
     steps:
       - name: Checkout this repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v2
 
-      - name: Set up Git (optional — change to your name/email or remove)
+      - name: Set up Git
         run: |
-          git config --global user.name "Lincorn"
-          git config --global user.email "lincorn@example.com"
+          git config --global user.name "YourGitHubUsername"   # 替换为你的 GitHub 用户名
+          git config --global user.email "you@example.com"     # 替换为你的 GitHub 邮箱
 
-      - name: Clone source repository
+      - name: Clone SuSuDear/0107 repository
         run: |
-          git clone --depth 1 https://github.com/SuSuDear/0107.git temp-sync || (echo "clone failed" && exit 1)
-
-      - name: Sync files (exclude .git)
-        run: |
-          # 使用 rsync 保留文件属性并删除目标中已删除的文件（镜像式同步）
-          rsync -a --delete --exclude='.git' temp-sync/ ./
+          git clone https://github.com/SuSuDear/0107.git temp-sync
+          cp -r temp-sync/* .
           rm -rf temp-sync
 
-      - name: Show git status for debug
-        run: |
-          git status --porcelain
-          git ls-files --deleted || true
-
-      - name: Commit and push if changed
+      - name: Commit and push changes if any
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add -A
+          git add .
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Sync from SuSuDear/0107: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            # 使用内置 GITHUB_TOKEN 推送
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+            git commit -m "Sync latest from SuSuDear/0107"
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
           else
-            echo "No changes to commit."
+            echo "No changes detected, skipping commit."
           fi
